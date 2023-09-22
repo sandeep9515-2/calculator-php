@@ -24,7 +24,7 @@
         <option value="mutiply">*</option>
         <option value="divide">/</option>
     </select></br>
-    <input type="number" name="num02" placeholder="enter number 2">
+    <input type="number" name="number02" placeholder="enter number 2">
     <button>calculate</button>
     </form>
 </body>
